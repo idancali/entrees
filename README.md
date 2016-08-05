@@ -25,6 +25,8 @@ entrees init --name HelloWorld --template ios/vanilla
 
 # Available Entrées
 
+Browse the list of available Entrées and see if there's anything you would like to use in your next project.
+
 ## Vanilla iOS
 
 **Type**: ```iOS```
