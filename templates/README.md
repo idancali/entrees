@@ -7,4 +7,11 @@
   <p align="center"> <b> Entrées </b> Serves Up Fresh App Starters To Give You A Head Start. </p>
 </p>
 
-[![Vanilla iOS](https://raw.githubusercontent.com/idancali/entrees/master/apple-logo.png)](https://github.com/idancali/entrees/templates/ios/vanilla)
+## Vanilla iOS
+
+**Type**: ```iOS``` [![Vanilla iOS](https://raw.githubusercontent.com/idancali/entrees/master/apple-logo.png)]
+**Descriptor**: ```ios/vanilla```
+**Example**:
+```javascript
+entrees init --name MyApp --template ios/vanilla
+```
