@@ -1,0 +1,12 @@
+name: entrees
+commands:
+- name: init
+  description: Creates a new project
+  options:
+    - name: name
+      alias: n
+      description: The name of the app
+    - name: template
+      alias: t
+      description: The template to initialize from
+  executor: commands/new

@@ -1,0 +1,37 @@
+{
+  "name": "entrees",
+  "version": "0.1.0",
+  "description": "A Repository Of App Starters",
+  "author": "I. Dan Calinescu <idancalinescu@gmail.com>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idancali/entrees.git"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "react-component",
+    "ios",
+    "android",
+    "mobile",
+    "templates",
+    "app templates",
+    "app starters"
+  ],
+  "bin" : {
+    "entrees" : "./node_modules/slana/bin/cli.js"
+  },
+  "bugs": {
+    "url": "https://github.com/idancali/entrees/issues"
+  },
+  "homepage": "https://github.com/idancali/entrees#readme",
+  "dependencies": {
+    "fs-extra": "^0.30.0",
+    "nunjucks": "^2.4.2",
+    "slana": "^0.1.5"
+  }
+}
