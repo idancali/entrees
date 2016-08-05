@@ -23,6 +23,20 @@ To create a new project with **Entrées** just give it a name and a choose a tem
 entrees init --name HelloWorld --template ios/vanilla
 ```
 
+# Available Entrées
+
+## Vanilla iOS
+
+**Type**: ```iOS```
+
+**Descriptor**: ```ios/vanilla```
+
+**Example**:
+
+```javascript
+entrees init --name MyApp --template ios/vanilla
+```
+
 [View All Available Entrées](https://github.com/idancali/entrees/tree/master/templates)
 
 # License

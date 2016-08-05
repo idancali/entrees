@@ -7,7 +7,7 @@
   <p align="center"> <b> Entrées </b> Serves Up Fresh App Starters To Give You A Head Start. </p>
 </p>
 
-## Vanilla iOS (https://raw.githubusercontent.com/idancali/entrees/master/apple-logo.png)
+## Vanilla iOS
 
 **Type**: ```iOS```
 
